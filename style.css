@@ -80,7 +80,7 @@ span{
 .footer1{
     background:rgba(236, 233, 233, 0.966) ;
     border: 1px grey solid;
-    width: 100%;
+    
 }
 
 .footer2{
@@ -93,4 +93,7 @@ span{
 }
 
 #footer{
-  
+    width: 100%;
+    position: absolute;
+    bottom:0;
+}
